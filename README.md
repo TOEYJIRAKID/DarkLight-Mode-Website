@@ -1,5 +1,7 @@
-# ระบบโหมดกลางวัน - กลางคืนในเว็บไซต์ (Dark-Light Mode Website)
+# โหมดกลางวัน - กลางคืนในเว็บไซต์ (Dark-Light Mode Website)
+
+###### [(ระบบนี้ Transfer มาจาก Github Account เก่า --> https://github.com/TOEYJIRAKIT/HTML-DarkModeLightMode)](https://github.com/TOEYJIRAKIT/HTML-DarkModeLightMode)
 
 ## ตัวอย่างผลการทำงาน
-https://github.com/TOEYJIRAKID/DarkLight-Mode-Website/assets/167008371/154200de-46ee-46e8-89c5-70d240f8fd20
+
 
