@@ -6,7 +6,7 @@ Dark/Light Mode – Dark and Light Mode Toggle Web Application
 
 ## 📌 **Project Overview** :
 
-Dark/Light Mode is a simple yet effective web application that enables users to switch between dark and light themes with a single click. With an intuitive UI and smooth transition effects, this project enhances user experience while reducing eye strain. The mode preference is stored, ensuring a consistent experience across visits.
+Dark/Light Mode is a simple yet effective web application that enables users to switch between dark and light themes with a single click. With an intuitive UI and smooth transition effects, this project enhances user experience while reducing eye strain.
 
 ## 🎯 **Objective** :
 
@@ -34,8 +34,8 @@ Dark/Light Mode is a simple yet effective web application that enables users to 
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/TOEYJIRAKID/DarkLight-Mode-Website.git
-   ```  
-2. **Run the code and open http://localhost:<your_port>/ to view the project.**
+   ```
+2. **Run the code and open http://localhost:{port} to view the project.**
 
 ## 📽️ **Project Preview** :
 
